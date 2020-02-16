@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://pamelamartello.github.io/20200213_hugo/"
 title = "2020.02.13 TEST HUGO"
 theme = "hugo-creative-portfolio-theme"
 publisDir = "public"
