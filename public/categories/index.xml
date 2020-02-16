@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 2020.02.13 TEST HUGO</title>
-    <link>https://pamelamartello.github.io/20200213_hugo/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on 2020.02.13 TEST HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pamelamartello.github.io/20200213_hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
