@@ -1,9 +1,9 @@
 +++
 draft = false
-image = "img/portfolio/envelope-brand.jpg"
+image = "img/jewelry/moon-sun-dance-1.png"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
-title = "Item with image"
+title = "WORK 9"
 weight = 9
 +++
 
